@@ -13,3 +13,5 @@
 09. CustomEditor
 10. Lerp (Right way & using AnimationCurve)
 11. HomingRocket
+12. SpriteShape
+13. Procedural Animation
